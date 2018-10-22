@@ -1,5 +1,5 @@
 _repo: The-Works-of-Samuel-Johnson-in-Sixteen-Volumes-Volume-IV_577
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Essays'
 - !lcc 'PR'
+- GITenberg
 title: The Works of Samuel Johnson, in Sixteen Volumes. Volume IV
 url: http://www.gutenberg.org/ebooks/577
